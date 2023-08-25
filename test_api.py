@@ -1,6 +1,6 @@
 import pytest
-from endpoints import UserEndpoint, PostEndpoint, CommentEndpoint
-from config_data import token
+from endpoints_api import UserEndpoint, PostEndpoint, CommentEndpoint
+from config_data_api import token
 from faker import Faker
 
 
